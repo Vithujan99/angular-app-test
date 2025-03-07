@@ -93,7 +93,7 @@ export class HousingService {
       city: "Oakland",
       state: "CA",
       photo: `${this.baseUrl}/saru-robert-9rP3mxf8qWI-unsplash.jpg`,
-      availableUnits: 10,
+      availableUnits: 20,
       wifi: false,
       laundry: false,
     },
